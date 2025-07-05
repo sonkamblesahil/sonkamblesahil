@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Tech Stack
--**Languages:** C, Java, Javascript, Python
+- **Languages:** C, Java, Javascript, Python
 - **Frontend:** React, HTML, CSS, JavaScript, TailwindCSS
 - **Backend:** Node.js, Express.js 
 - **Database:** MongoDB, MySql
