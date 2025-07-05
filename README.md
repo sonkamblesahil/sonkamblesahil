@@ -1,33 +1,40 @@
 ## 👋 Hi, I'm Sahil Sonkamble!
 
-🔭 I’m currently working on **web development**  
-🌱 I’m currently learning **MERN Stack**  
-👯 I’m looking to collaborate on **web projects**  
+🔭 I’m currently working on **Web Development**  
+🌱 I’m learning **MERN Stack**  
+👯 I’m looking to collaborate on **web projects**
 
 ---
 
 ### 🚀 Tech Stack
-- **Languages:** C, Java, Javascript, Python
-- **Frontend:** React, HTML, CSS, JavaScript, TailwindCSS
-- **Backend:** Node.js, Express.js 
-- **Database:** MongoDB, MySql
+
+- **Languages:** C, Java, JavaScript, Python
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code, Nmap
 
+---
 
+### 📊 GitHub Stats
 
-### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=radical" height="180" width=480/>
+  <img src="https://leetcard.jacoblin.cool/sahilsonkamble17?theme=dark" height="180"  width=480/>
+</p>
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=radical)          ![Leetcode Stats](https://leetcard.jacoblin.cool/sahilsonkamble17)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&layout=compact&theme=radical" height="180" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
-- LinkedIn: [sahilsonkamble](www.linkedin.com/in/sonkamblesahil)
-- Email: sahilsonkamble17@gmail.com
-- Phone: 9404281358
+- [LinkedIn](https://www.linkedin.com/in/sonkamblesahil)
+- 📧 sahilsonkamble17@gmail.com
+- 📱 9404281358
 
 ---
 
-_“Code, Learn, and Build something amazing every day.”_
+_“Code, learn, and build something amazing every day.”_
