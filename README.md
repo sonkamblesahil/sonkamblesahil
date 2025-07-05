@@ -17,7 +17,7 @@
 
 ### 📈 GitHub Stats
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=radical))![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&layout=compact&theme=tokyonight)
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=radical))             ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&layout=compact&theme=tokyonight)
 
 ---
 
