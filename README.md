@@ -25,8 +25,9 @@
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/sonkamblesahil)
+- LinkedIn: [sahilsonkamble](www.linkedin.com/in/sonkamblesahil)
 - Email: sahilsonkamble17@gmail.com
+- Phone: 9404281358
 
 ---
 
