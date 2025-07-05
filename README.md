@@ -1,10 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Sahil Sonkamble!
+
+🔭 I’m currently working on **web development**  
+🌱 I’m currently learning **MERN Stack**  
+👯 I’m looking to collaborate on **frontend web projects**  
+
+---
+
+### 🚀 Tech Stack
+
+- **Frontend:** React, HTML, CSS, JavaScript, TailwindCSS
+- **Backend:** Node.js, Express.js 
+- **Database:** MongoDB ,MySql
+- **Tools:** Git, GitHub, VS Code
 
 
 
-- 🔭 I’m currently working on web development 
-- 🌱 I’m currently learning MERN 
-- 👯 I’m looking to collaborate on projects related with web development specifically frontend
-- 📫 How to reach me: 📞9404281358 [sahilsonkamble_17](https://github.com/user-attachments/assets/6fb96f6d-1c42-470c-841c-3739e5b31d04)
+### 📈 GitHub Stats
 
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilsonkamble&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsonkamble&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/sonkamblesahil)
+- Email: sahilsonkamble17@gmail.com
+
+---
+
+_“Code, Learn, and Build something amazing every day.”_
