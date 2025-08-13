@@ -13,7 +13,7 @@
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code, Nmap
-
+- **Libraries and FrameWorks:** NumPy, Pandas
 ---
 
 ### 📊 GitHub Stats
