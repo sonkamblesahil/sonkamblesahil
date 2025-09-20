@@ -2,25 +2,27 @@
 
 🔭 I’m currently working on **Web Development**  
 🌱 I’m learning **MERN Stack**  
-👯 I’m looking to collaborate on **web projects**
+👯 I’m looking to collaborate on **web projects**  
+💡 I love building interactive and responsive web apps  
 
 ---
 
 ### 🚀 Tech Stack
 
-- **Languages:** C, Java, JavaScript, Python
-- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Nmap
-- **Libraries and FrameWorks:** NumPy, Pandas
+**Languages:**  `Java` `JavaScript` `Python`  
+**Frontend:** `React.js` `HTML` `CSS` `Tailwind CSS`  
+**Backend:** `Node.js` `Express.js`  
+**Database:** `MongoDB` `MySQL` `PostgreSql` `Sqlite3`
+**Tools & Platforms:** `Git` `GitHub` `VS Code` `Postman` 
+**Libraries:** `NumPy` `Pandas`  
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=radical" height="180" width=480/>
-  <img src="https://leetcard.jacoblin.cool/sahilsonkamble17?theme=dark" height="180"  width=480/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=radical" height="180" width="480"/>
+  <img src="https://leetcard.jacoblin.cool/sahilsonkamble17?theme=dark" height="180" width="480"/>
 </p>
 
 <p align="center">
@@ -31,10 +33,10 @@
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sonkamblesahil)
-- 📧 sahilsonkamble17@gmail.com
-- 📱 9404281358
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonkamblesahil)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsonkamble17@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-9404281358-orange?style=for-the-badge)](#)  
 
 ---
 
-_“Code, learn, and build something amazing every day.”_
+> “Code, learn, and build something amazing every day.” 💻✨
