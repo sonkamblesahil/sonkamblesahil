@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Sahil Sonkamble!  
 
-![header](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 
 🔭 I’m currently working on **Web Development**  
 🌱 I’m learning **MERN Stack**  
@@ -54,4 +53,4 @@
 
 > “Code, learn, and build something amazing every day.” 💻✨  
 
-![footer](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
