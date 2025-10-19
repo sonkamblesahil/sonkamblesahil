@@ -10,12 +10,14 @@
 
 ### 🚀 Tech Stack
 
-**Languages:**  `Java` `JavaScript` `Python`  
-**Frontend:** `React.js` `HTML` `CSS` `Tailwind CSS`  
-**Backend:** `Node.js` `Express.js`  
-**Database:** `MongoDB` `MySQL` `PostgreSQL` `SQLite3`  
-**Tools & Platforms:** `Git` `GitHub` `VS Code` `Postman`  
-**Libraries:** `NumPy` `Pandas`  
+**Programming Languages:** `Java` `JavaScript` `C` `Python` `HTML` `CSS`  
+**Frameworks & Libraries:** `React.js` `Node.js` `Express.js` `Tailwind CSS`  
+**Databases:** `MySQL` `MongoDB` `SQLite3`  
+**Developer Tools:** `Git` `GitHub` `VS Code` `Postman` `Figma` `Google Colab`  
+**CS Fundamentals:** `Data Structures & Algorithms` `Operating Systems` `DBMS`  
+**Other Skills:** `RESTful APIs` `JSON` `JWT Authentication`
+
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,13 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&layout=compact&theme=radical&hide=html,css" height="180"/>
 </p>
-
----
-
-### 🌟 Fun Animated Stats
-
-![Visitor Count](https://profile-counter.glitch.me/sonkamblesahil/count.svg)  
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=sonkamblesahil&theme=radical&layout=compact)
 
 ---
 
