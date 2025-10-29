@@ -1,45 +1,98 @@
-## Hi, I'm Sahil Sonkamble
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hey+!+I’m+Sahil" />
 
+## Glad you stumbled here!!!
+---
+![Profile Views](https://komarev.com/ghpvc/?username=sonkamblesahil&color=brightgreen)
 
- I’m currently working on **Web Development**  
- I’m learning **MERN Stack**  
- I’m looking to collaborate on **web projects**  
- I love building interactive and responsive web apps  
+🌱 **I’m currently working on**: MERN Stack, Java . I would greatly appreciate any help in my learning journey!
+
+👯 **I’m looking to collaborate on**: Web projects.
+
+🔗 **Follow my GitHub to see all my repositories**: [GitHub Profile](https://github.com/sonkamblesahil)
+
+🌐 Check out my website: [sahil's Portfolio](https://sahilsonkamble.vercel.app/)
+
+🤝 **Can help you with**: Web Development using MERN Stack.
+
+⚡ **Fun fact**: I love coding and playing chess .
 
 ---
 
-###  Tech Stack
-
-**Programming Languages:** `Java` `JavaScript` `C` `Python` `HTML` `CSS`  
-**Frameworks & Libraries:** `React.js` `Node.js` `Express.js` `Tailwind CSS`  `Swing`
-**Databases:** `MySQL` `MongoDB` `SQLite3` `JDBC` 
-**Developer Tools:** `Git` `GitHub` `VS Code` `Postman` `Figma` `Google Colab`  `NetBeans`
-**CS Fundamentals:** `Data Structures & Algorithms` `Operating Systems` `DBMS`  
 
 
----
-
-### GitHub Stats
+## 🛠 Tools & Technologies ⚡
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" width="480"/>
-  <img src="https://leetcard.jacoblin.cool/sahilsonkamble17?theme=dark&animation=twinkling" height="180" width="480"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&layout=compact&theme=radical&hide=html,css" height="180"/>
+  <a href="https://github.com/sonkamblesahil">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman,mongodb,github,express,flask,mysql" />
+  </a>
 </p>
 
 ---
 
-### Connect with Me  
+## 🚀 Current Tech Voyages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonkamblesahil)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsonkamble17@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-9404281358-orange?style=for-the-badge)](#)  
+- **Web Crafting**: Molding the web with JavaScript frameworks and Node.js. Making the internet a more dynamic place, one line of code at a time.
+- **Algorithm Mastery**: Practicing DSA to solve problems like a coding superhero. 🦸‍♀️
 
 ---
 
-> “Code, learn, and build something amazing every day.” 
+## 🎓 Certifications
+
+- **Java (Basic)** - HackerRank
+- **Sql (Basic)** - HackerRank
+- **Programming for Everybody (Getting Started with Python)** - Coursera
+
+---
+
+## 📫 Get in Touch
+
+<p align="left">
+  Can reach me through:
+  <a href="https://www.linkedin.com/in/sonkamblesahil/">LinkedIn</a> and 
+  <a href="mailto:sahilsonkamble17@gmail.com">Email</a>
+</p>
+
+<p align="left">
+  Explore my coding profiles:
+  <a href="https://leetcode.com/u/sahilsonkamble17/">LeetCode</a> and
+  <a href="https://www.geeksforgeeks.org/user/sahilsonk7e1u/">GeeksforGeeks</a> 
+  <br>
+  
+  Follow my <a href="https://github.com/sharuvaruu">GitHub</a>
+</p>
+
+---
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=dark&hide_border=true" alt="sahilsonkamble" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonkamblesahil&theme=dark" alt="Repositories per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonkamblesahil&theme=dark" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
 
+
+---
+
+## 📊 GitHub Profile Summary Card
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonkamblesahil&theme=github_dark" alt="GitHub Profile Summary Card" />
+
+---
+
+## Thanks for dropping by! Keep coding, stay curious, and never underestimate the power of a well-placed semicolon. 🌟
