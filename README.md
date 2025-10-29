@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/sonkamblesahil">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman,mongodb,github,express,flask,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman,mongodb,github,express,mysql,sqlite3,jdbc,swing" />
   </a>
 </p>
 
