@@ -23,9 +23,7 @@
 ## 🛠 Tools & Technologies ⚡
 
 <p align="center">
-  <a href="https://github.com/sonkamblesahil">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,js,html,css,react,nodejs,postman,mongodb,github,express,mysql,sqlite3,jdbc,swing" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,c,cpp,java,python,js,html,css,react,nodejs,express,spring,hibernate,maven,mysql,postgres,mongodb,sqlite" />
 </p>
 
 ---
