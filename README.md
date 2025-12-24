@@ -67,7 +67,7 @@
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=dark&hide_border=true" alt="sahilsonkamble" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="sonkamblesahil stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
@@ -82,6 +82,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
