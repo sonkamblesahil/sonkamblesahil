@@ -66,23 +66,27 @@
 
 <table style="width:100%">
   <tr>
-  [  <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="sonkamblesahil stats" />
-    </td>](https://github-profile-trophy.vercel.app/?username=sonkamblesahil
-)
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&theme=dark&hide_border=true&layout=compact" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sonkamblesahil&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+           alt="GitHub statistics for Sonkamblesahil" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonkamblesahil&theme=dark&hide_border=true&layout=compact"
+           alt="Most used programming languages" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonkamblesahil&theme=dark" alt="Repositories per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonkamblesahil&theme=dark"
+           alt="Repositories per language" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonkamblesahil&theme=dark" alt="Most Commit Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonkamblesahil&theme=dark"
+           alt="Most committed language" />
     </td>
   </tr>
 </table>
+
 
 
 
